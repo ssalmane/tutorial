@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 feature by ssalmane1 v1.0
-=======
-feature by ssalmane1
 feature by ssalmane2 v1.0
->>>>>>> 8a7bea251c4ae7e17ba641978cf02bfeb3f06a69
